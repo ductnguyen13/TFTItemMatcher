@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TFTItemMatcher</string>
+
+    <string name='image_one'>Image 1</string>
+    <string name='image_two'>Image 2</string>
+    <string name='item_one'>Select Item 1</string>
+    <string name='item_two'>Select Item 2</string>
+    <string name='combine'>Combine Items</string>
+</resources>
